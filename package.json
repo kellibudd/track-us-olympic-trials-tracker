@@ -1,0 +1,23 @@
+{
+  "name": "track-us-olympic-trials-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xlsx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellibudd/track-us-olympic-trials-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellibudd/track-us-olympic-trials-tracker/issues"
+  },
+  "homepage": "https://github.com/kellibudd/track-us-olympic-trials-tracker#readme",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
+}
